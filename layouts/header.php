@@ -72,9 +72,9 @@
 							<div>
 								<ul>
 									<li class="active"><a href="homepage.php">Home</a></li>
-									<li><a href="services.html">Productos</a></li>
-									<li><a href="services.html">Vendedores</a></li>
-									<li><a href="services.html">Referencias</a></li>
+									<li><a href="#content">Productos</a></li>
+									<li><a href="vendedores.php">Vendedores</a></li>
+									<li><a href="#qbootstrap-testimonial">Referencias</a></li>
 									<li><a href="contact.html">Contacto</a></li>
 									<li><a href="contact.html">Log In</a></li>
 								</ul>

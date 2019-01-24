@@ -55,7 +55,7 @@
 							<div class="entry-content">
 								<h2></h2>
 								<h1 style="text-align: center;"><strong>Quiénes somos</strong></h1>
-								<p style="text-align: center;"><h5 align="center">Somos una empresa importadora de confitería comprometidos en ofrecer a nuestros clientes productos deliciosos, divertidos y de la más alta calidad. Con 15 años en el mercado hemos logrado posicionar nuestra marca en todo el país apoyándonos en la constante innovación, excelencia y transparencia, los que se han convertido en los principales pilares de CandyPlanet.</h5></p>
+								<p style="text-align: center;"><h5 align="center">Somos una empresa importadora de confitería comprometidos en ofrecer a nuestros clientes productos deliciosos, divertidos y de la más alta calidad. Con 15 años en el mercado hemos logrado posicionar nuestra marca en todo el país apoyándonos en la constante innovación, excelencia y transparencia, los que se han convertido en los principales pilares de ConfiKing.</h5></p>
 								
 								<h1 style="text-align: center;"><strong>&nbsp;Misión</strong></h1>
 								<p style="text-align: center;"><h5 align="center">Importar y distribuir confites, ofreciendo a nuestros clientes productos deliciosos, divertidos y de la más alta calidad con el fin de satisfacer las necesidades de nuestros clientes y consumidores.</h5></p>
