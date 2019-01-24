@@ -1,44 +1,64 @@
+<link rel="stylesheet" href="css/style.css">
 <footer id="qbootstrap-footer" role="contentinfo">
-		<div class="overlay"></div>
+	<div class="overlay"></div>
 		<div class="container">
 			<div class="row row-pb-md">
+
 				<div class="col-md-3 qbootstrap-widget">
-					<h3>About</h3>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6 qbootstrap-widget">
-					<h3>Links</h3>
-					<ul class="qbootstrap-footer-links">
-						<li><a href="#">Department</a></li>
-						<li><a href="#">Blog</a></li>
-						<li><a href="#">Contact</a></li>
-						<li><a href="#">Terms</a></li>
-						<li><a href="#">Shop</a></li>
+					<h3 align="left">Nosotros</h3>
+					<ul class="qbootstrap-footer-links" align="left" >
+						<li><a href="#" align="left">Empresa</a></li>
 					</ul>
 				</div>
 
 				<div class="col-md-2 col-sm-4 col-xs-6 qbootstrap-widget">
-					<h3>Our Services</h3>
-					<ul class="qbootstrap-footer-links">
-						<li><a href="#">Heart Surgery</a></li>
-						<li><a href="#">Surgical Treatment</a></li>
-						<li><a href="#">General Treatment</a></li>
-						<li><a href="#">Medical Treatment</a></li>
-						<li><a href="#">Help Desk</a></li>
+					<h3 align="left">Links</h3>
+					<ul class="qbootstrap-footer-links" align="left" >
+						<li><a href="#" align="left">Productos</a></li>
+						<li><a href="#" align="left">Vendedores</a></li>
+						<li><a href="#" align="left">Referencias</a></li>
+						<li><a href="#" align="left">Contacto</a></li>
+						<li><a href="#" align="left">Log In</a></li>
 					</ul>
 				</div>
+
+				<div class="col-md-2 col-sm-4 col-xs-6 qbootstrap-widget">
+					<h3 align="left">Sales contact</h3>
+					<ul class="qbootstrap-footer-links" align="left">
+						<li><a href="#" align="left">ventas@confikings.com</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-5 col-sm-4 col-xs-12 qbootstrap-widget">
+					<h3 align="left">Envianos tus preguntas</h3>
+					<form class="contact-form">
+						<div class="form-group">
+							<label for="name" class="sr-only">Nombre</label>
+							<input type="name" class="form-control" id="name"  placeholder="Name">
+						</div>
+						<div class="form-group">
+							<label for="email" class="sr-only">Correo</label>
+							<input type="email" class="form-control" id="email" placeholder="Email">
+						</div>
+						<div class="form-group">
+							<label for="message" class="sr-only">Mensaje</label>
+							<textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>
+						</div>
+						<div class="form-group">
+							<input type="submit" id="btn-submit" align="left" class="btn btn-primary btn-send-message btn-md" value="Send Message">
+						</div>
+					</form>
+				</div>
+
 			</div>
 		</div>
-		<div class="row copyright">
-			<div class="col-md-12 text-center">
-				<p>
-                    <small class="block">&copy;All Rights Reserved.</small> 
-                    <small class="block">Designed by 3 Chiflados team</small>
-                </p>
-			</div>
-		</div>
-	</footer>
+		
+	<div class="row copyright">
+		<p><small class="block">&copy;All Rights Reserved,Designed by 3 Chiflados team</small></p>
 	</div>
+
+	
+	</footer>
 
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>

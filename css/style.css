@@ -1862,6 +1862,21 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0;
 }
 
+.pixeden {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 63px;
+  margin: auto;
+}
+
+.focus-box .service-icon .pixeden {
+  border-radius: 50%;
+}
+
 #sticky_item {
   overflow: hidden;
   -webkit-transition: 0.3s;
