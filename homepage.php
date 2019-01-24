@@ -26,35 +26,32 @@
 				   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
 				   				<div class="slider-text-inner">
 				   					<h1><strong>Líderes en confitería Ecuatoriana</strong></h1>
-										<p><h2><strong>Somos una empresa importadora de confitería comprometidos en ofrecer a nuestros clientes productos deliciosos, divertidos y de la más alta calidad. Con 15 años en el mercado hemos logrado posicionar nuestra marca en todo el país apoyándonos en la constante innovación, excelencia y transparencia, los que se han convertido en los principales pilares de ConfiKing.</h2></strong></p>
+										<p><h2>Somos una empresa importadora de confitería comprometidos en ofrecer a nuestros clientes productos deliciosos, divertidos y de la más alta calidad. Con 15 años en el mercado hemos logrado posicionar nuestra marca en todo el país apoyándonos en la constante innovación, excelencia y transparencia, los que se han convertido en los principales pilares de ConfiKing.</h2></p>
 				   				</div>
 				   			</div>
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_2.jpg);">
+			   	<li style="background-image: url(images/carrouse_candy_tres.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container">
 			   			<div class="row">
 				   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
 				   				<div class="slider-text-inner">
-				   					<h1>Have an Access to <strong>a Health Professional at any time</strong></h1>
-										<h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2>
-										<p><a class="btn btn-primary btn-lg btn-learn" href="appointment.html">Make an Appointment</a></p>
+				   					<h1><strong>Conoce lo que ofrecemos</strong></h1>
 				   				</div>
 				   			</div>
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_3.jpg);">
+			   	<li style="background-image: url(images/carrouse_candy_cuatro.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container">
 			   			<div class="row">
 				   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
 				   				<div class="slider-text-inner">
-				   					<h1>Special offer! <strong>Free Consultation</strong> this month only</h1>
-										<h2>Free html5 templates Made by <a href="http://qbootstrap.com/" target="_blank">QBootstrap.com</a></h2>
-										<p><a class="btn btn-primary btn-lg btn-learn" href="appointment.html">Make an Appointment</a></p>
+				   					<h1><strong></strong>Siguenos en nuestro FanPage:</h1>
+										<p><a class="btn btn-primary btn-lg btn-learn" href="appointment.html">FACEBOOK</a></p>
 				   				</div>
 				   			</div>
 				   		</div>
