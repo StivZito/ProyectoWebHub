@@ -19,14 +19,14 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/carrouse_candy_dos.jpg);">
+			   	<li style="background-image: url(images/carrouse_candy_black.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container">
 			   			<div class="row">
 				   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
 				   				<div class="slider-text-inner">
 				   					<h1><strong>Líderes en confitería Ecuatoriana</strong></h1>
-										<p><h1><strong>Somos una empresa importadora de confitería comprometidos en ofrecer a nuestros clientes productos deliciosos, divertidos y de la más alta calidad. Con 15 años en el mercado hemos logrado posicionar nuestra marca en todo el país apoyándonos en la constante innovación, excelencia y transparencia, los que se han convertido en los principales pilares de ConfiKing.</h1></strong></p>
+										<p><h2><strong>Somos una empresa importadora de confitería comprometidos en ofrecer a nuestros clientes productos deliciosos, divertidos y de la más alta calidad. Con 15 años en el mercado hemos logrado posicionar nuestra marca en todo el país apoyándonos en la constante innovación, excelencia y transparencia, los que se han convertido en los principales pilares de ConfiKing.</h2></strong></p>
 				   				</div>
 				   			</div>
 				   		</div>
