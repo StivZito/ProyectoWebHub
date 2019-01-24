@@ -7,7 +7,7 @@
 				<div class="col-md-3 qbootstrap-widget">
 					<h3 align="left">Nosotros</h3>
 					<ul class="qbootstrap-footer-links" align="left" >
-						<li><a href="#" align="left">Empresa</a></li>
+						<li><a href="nosotros.php" align="left">Empresa</a></li>
 					</ul>
 				</div>
 

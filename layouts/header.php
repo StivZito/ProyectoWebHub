@@ -51,7 +51,7 @@
 							<div class="top">
 								<div class="row">
 									<div class="col-md-4 col-md-push-4 text-center">
-										<div id="qbootstrap-logo"><a href="index.html"><i class="icon-github"></i>confi<span>king</span></a></div>
+										<div id="qbootstrap-logo"><a href="homepage.php"><i class="icon-github"></i>confi<span>king</span></a></div>
 									</div>
 									<div class="col-md-4 col-md-pull-4">
 										<div class="num">
@@ -71,7 +71,7 @@
 						<div class="col-xs-12 text-center">
 							<div>
 								<ul>
-									<li class="active"><a href="index.html">Home</a></li>
+									<li class="active"><a href="homepage.php">Home</a></li>
 									<li><a href="services.html">Productos</a></li>
 									<li><a href="services.html">Vendedores</a></li>
 									<li><a href="services.html">Referencias</a></li>
