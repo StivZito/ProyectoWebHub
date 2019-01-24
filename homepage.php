@@ -9,7 +9,7 @@
 		<aside id="qbootstrap-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/carrouse_candy_uno.jpg);">
+			   	<li style="background-image: url(assets/images/carrouse_candy_uno.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container">
 			   			<div class="row">
@@ -22,7 +22,7 @@
 			   		</div>
 			   	</li>
 			   	
-			   	<li style="background-image: url(images/carrouse_candy_black.jpg);">
+			   	<li style="background-image: url(assets/images/carrouse_candy_black.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container">
 			   			<div class="row">
@@ -35,7 +35,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/carrouse_candy_full.jpg);">
+			   	<li style="background-image: url(assets/images/carrouse_candy_full.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container">
 			   			<div class="row">
@@ -47,7 +47,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/carrouse_candy_final.jpg);">
+			   	<li style="background-image: url(assets/images/carrouse_candy_final.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container">
 			   			<div class="row">
@@ -78,7 +78,7 @@
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
 								<a href="" class="service-icon">
 								    <span class="sr-only">Go to Gelatinas </span>								
-									<i class="pixeden" style="background:url(images/gelatina.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/gelatina.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
 								<h3 class="red-border-bottom">Gelatinas</h3>
 								<p>Con sabor a frutas</p>
@@ -89,7 +89,7 @@
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
 								<a href="" class="service-icon">
 									<span class="sr-only">Go to Gomitas </span>								
-									<i class="pixeden" style="background:url(images/gomita.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/gomita.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>
 								<h3 class="red-border-bottom">Gomitas</h3>
 								<p>Ricas y divertidas</p>
@@ -99,7 +99,7 @@
 						<span id="ctup-ads-widget-3" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">										<a href="" class="service-icon">
 									<span class="sr-only">Go to Chocolate</span>
-									<i class="pixeden" style="background:url(images/chocolate.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/chocolate.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
 								<h3 class="red-border-bottom">Chocolate</h3>
 								<p>Con crema de avellanas</p>
@@ -110,7 +110,7 @@
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
 								<a href="" class="service-icon">
 									<span class="sr-only">Go to Chupetes</span>								
-									<i class="pixeden" style="background:url(images/chupete.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/chupete.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
 								<h3 class="red-border-bottom">Chupetes</h3>
 								<p>Delicioso caramelo duro</p>
@@ -121,7 +121,7 @@
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
 								<a href="" class="service-icon">
 									<span class="sr-only">Go to Chicle</span>								
-									<i class="pixeden" style="background:url(images/chiclesito.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/chiclesito.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
 								<h3 class="red-border-bottom">Chicle</h3>
 								<p>Sabor a sandia </p>
@@ -132,7 +132,7 @@
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
 								<a href="" class="service-icon">
 									<span class="sr-only">Go to Caramelo Blando/Polvo</span>
-									<i class="pixeden" style="background:url(images/caramelito.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/caramelito.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
 								<h3 class="red-border-bottom">Caramelo Blando/Polvo</h3>
 								<p>Dulce y sabroso</p>
@@ -143,7 +143,7 @@
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
 								<a href="" class="service-icon">
 									<span class="sr-only">Go to CARAMELO LÍQUIDO</span>								
-									<i class="pixeden" style="background:url(images/caramelito-liquido.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/caramelito-liquido.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
 								<h3 class="red-border-bottom">CARAMELO LÍQUIDO</h3>
 								<p>Caramelo líquido de sabores</p>
@@ -154,7 +154,7 @@
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
 								<a href="" class="service-icon">
 									<span class="sr-only">Go to Grageas</span>
-									<i class="pixeden" style="background:url(images/grageitas.png) no-repeat center;width:100%; height:100%;"></i>
+									<i class="pixeden" style="background:url(assets/images/grageitas.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>
 								<h3 class="red-border-bottom">Grageas</h3>
 								<p>Caramelo duro con centro ácido</p>
@@ -177,16 +177,16 @@
 				<div class="row">
 					<div class="col-md-4 animate-box">
 						<div class="testimony text-center">
-							<span class="img-user" style="background-image: url(images/person2.jpg);"></span>
+							<span class="img-user" style="background-image: url(assets/images/person2.jpg);"></span>
 							<span class="user">Carlos</span>
 							<blockquote>
-								<p class="message">"Me fascinan las gomitas de dientes y tortugas. Mi esposo y yo nos las comemos toditas."</p>
+								<p class="message">"Me fascinan las gomitas de dientes y tortugas. Mi esposa y yo nos las comemos toditas."</p>
 							</blockquote>
 						</div>
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="testimony text-center">
-							<span class="img-user" style="background-image: url(images/person1.jpg);"></span>
+							<span class="img-user" style="background-image: url(assets/images/person1.jpg);"></span>
 							<span class="user">Jose</span>
 							<blockquote>
 								<p>"Las FRANAS son deliciosas, es un producto super divertido, las recomiendo :D Feliz de comérmelas toditas."</p>
@@ -195,7 +195,7 @@
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="testimony text-center">
-							<span class="img-user" style="background-image: url(images/person3.jpg);"></span>
+							<span class="img-user" style="background-image: url(assets/images/person3.jpg);"></span>
 							<span class="user">Mariuxi</span>
 							<blockquote>
 								<p>"Me encanta los productos de CanfiKing, mantienen su sabor, es un producto de calidad en frescura y sabor."</p>
