@@ -44,7 +44,7 @@
 		<div class="qbootstrap-loader"></div>		
 		<div id="page">
 		<nav class="qbootstrap-nav" role="navigation">
-			<div class="">
+			<div class="top-menu">
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
@@ -76,7 +76,7 @@
 									<li><a href="productos.php">Productos</a></li>
 									<li><a href="vendedores.php">Vendedores</a></li>
 									<li><a href="mapa.php">Encuentranos</a></li>
-									<li><a href="">Log In</a></li>
+									<li><a href="login.php">Log In</a></li>
 								</ul>
 							</div>
 						</div>

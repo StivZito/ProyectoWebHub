@@ -76,7 +76,7 @@
 					<div class="row">
 						<span id="ctup-ads-widget-2" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="" class="service-icon">
+								<a href="productos.php" class="service-icon">
 								    <span class="sr-only">Go to Gelatinas </span>								
 									<i class="pixeden" style="background:url(assets/images/gelatina.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
@@ -87,7 +87,7 @@
 
 						<span id="ctup-ads-widget-1" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="" class="service-icon">
+								<a href="productos.php" class="service-icon">
 									<span class="sr-only">Go to Gomitas </span>								
 									<i class="pixeden" style="background:url(assets/images/gomita.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>
@@ -97,7 +97,7 @@
 						</span>
 
 						<span id="ctup-ads-widget-3" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">										<a href="" class="service-icon">
+							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">										<a href="productos.php" class="service-icon">
 									<span class="sr-only">Go to Chocolate</span>
 									<i class="pixeden" style="background:url(assets/images/chocolate.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
@@ -108,7 +108,7 @@
 
 						<span id="ctup-ads-widget-8" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="" class="service-icon">
+								<a href="productos.php" class="service-icon">
 									<span class="sr-only">Go to Chupetes</span>								
 									<i class="pixeden" style="background:url(assets/images/chupete.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
@@ -119,7 +119,7 @@
 
 						<span id="ctup-ads-widget-15" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="" class="service-icon">
+								<a href="productos.php" class="service-icon">
 									<span class="sr-only">Go to Chicle</span>								
 									<i class="pixeden" style="background:url(assets/images/chiclesito.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
@@ -130,7 +130,7 @@
 
 						<span id="ctup-ads-widget-6" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="" class="service-icon">
+								<a href="productos.php" class="service-icon">
 									<span class="sr-only">Go to Caramelo Blando/Polvo</span>
 									<i class="pixeden" style="background:url(assets/images/caramelito.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
@@ -141,7 +141,7 @@
 
 						<span id="ctup-ads-widget-12" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="" class="service-icon">
+								<a href="productos.php" class="service-icon">
 									<span class="sr-only">Go to CARAMELO LÍQUIDO</span>								
 									<i class="pixeden" style="background:url(assets/images/caramelito-liquido.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>				
@@ -152,7 +152,7 @@
 
 						<span id="ctup-ads-widget-14" class="">
 							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="" class="service-icon">
+								<a href="productos.php" class="service-icon">
 									<span class="sr-only">Go to Grageas</span>
 									<i class="pixeden" style="background:url(assets/images/grageitas.png) no-repeat center;width:100%; height:100%;"></i>
 								</a>
@@ -160,7 +160,10 @@
 								<p>Caramelo duro con centro ácido</p>
 							</div>
 						</span>
-				</div> <!-- / END CONTAINER -->	
+				</div> <!-- / END CONTAINER -->
+				<div>
+					<a href="productos.php"><h5>DESCUBRE MAS</h5></a>
+				</div>	
 			</section>  <!-- / END FOCUS SECTION -->
 		</div>
 		
