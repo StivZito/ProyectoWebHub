@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>CofiKing - LogIn</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="assets/images/logo.png">
+	<link rel="stylesheet" type="text/css" href="assets_log/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/fonts/iconic/css/material-design-iconic-font.min.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/vendor/css-hamburgers/hamburgers.min.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/vendor/animsition/css/animsition.min.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/vendor/daterangepicker/daterangepicker.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/css/util.css">
+	<link rel="stylesheet" type="text/css" href="assets_log/css/main.css">
+
+	<nav class="qbootstrap-nav" role="navigation">
+		<div class="top-menu">
+			<div class="container">
+				<div class="row">
+					<div class="top">
+						<div class="row">
+							<div class="col-md-4 col-md-push-4 text-center">
+								<div id="qbootstrap-logo"><a href="homepage.php"><i class="icon-github"></i>confi<span>king</span></a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+
+</head>
+<body>
+	
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="">
+				<form class="login100-form validate-form">
+					
+					<span class="login100-form-avatar">
+						<img src="assets_log/images/avatar-01.jpg" alt="AVATAR">
+					</span>
+
+					<div class="wrap-input100 validate-input m-t-85 m-b-35" data-validate = "Enter username">
+						<input class="input100" type="text" name="username">
+						<span class="focus-input100" data-placeholder="Username"></span>
+					</div>
+
+					<div class="wrap-input100 validate-input m-b-50" data-validate="Enter password">
+						<input class="input100" type="password" name="pass">
+						<span class="focus-input100" data-placeholder="Password"></span>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<button class="login100-form-btn">
+							Login
+						</button>
+					</div>
+					<br><br>
+					<ul class="">
+						<li class="m-b-8">
+							<span class="txt1">
+								Forgot
+							</span>
+
+							<a href="#" class="txt2">
+								Username / Password?
+							</a>
+						</li>
+
+						<li>
+							<span class="txt1">
+								Don’t have an account?
+							</span>
+
+							<a href="#" class="txt2">
+								Sign up
+							</a>
+						</li>
+					</ul>
+				</form>
+			</div>
+		</div>
+	</div>
+	
+
+	<div id="dropDownSelect1"></div>
+	
+<!--===============================================================================================-->
+	<script src="assets_log/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="assets_log/vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script src="assets_log/vendor/bootstrap/js/popper.js"></script>
+	<script src="assets_log/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="assets_log/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="assets_log/vendor/daterangepicker/moment.min.js"></script>
+	<script src="assets_log/vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+	<script src="assets_log/vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>
