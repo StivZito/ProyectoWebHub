@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<?php require_once('layouts/header.php'); ?>
+	<?php require_once('layouts/header_sr.php'); ?>
 	<!-- / Google Analytics by MonsterInsights -->
 	<script type="text/javascript">
 		window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/candyplanet.com.ec\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};

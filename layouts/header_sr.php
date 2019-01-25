@@ -44,7 +44,6 @@
 		<div class="qbootstrap-loader"></div>		
 		<div id="page">
 		<nav class="qbootstrap-nav" role="navigation">
-			<!--<div class="top-menu">-->
 			<div class="">
 				<div class="container">
 					<div class="row">
@@ -74,9 +73,8 @@
 								<ul>
 									<li class="active"><a href="homepage.php">Home</a></li>
 									<li><a href="nosotros.php">Nosotros</a></li>
-									<li><a href="#content">Productos</a></li>
+									<li><a href="productos.php">Productos</a></li>
 									<li><a href="vendedores.php">Vendedores</a></li>
-									<li><a href="#qbootstrap-testimonial">Referencias</a></li>
 									<li><a href="mapa.php">Encuentranos</a></li>
 									<li><a href="">Log In</a></li>
 								</ul>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<?php require_once('layouts/header.php'); ?>
+		<?php require_once('layouts/header_sr.php'); ?>
 	</head>
 	<body>
 		<div id="qbootstrap-doctor">
