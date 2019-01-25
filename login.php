@@ -15,23 +15,6 @@
 	<link rel="stylesheet" type="text/css" href="assets_log/vendor/daterangepicker/daterangepicker.css">
 	<link rel="stylesheet" type="text/css" href="assets_log/css/util.css">
 	<link rel="stylesheet" type="text/css" href="assets_log/css/main.css">
-
-	<nav class="qbootstrap-nav" role="navigation">
-		<div class="top-menu">
-			<div class="container">
-				<div class="row">
-					<div class="top">
-						<div class="row">
-							<div class="col-md-4 col-md-push-4 text-center">
-								<div id="qbootstrap-logo"><a href="homepage.php"><i class="icon-github"></i>confi<span>king</span></a></div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</nav>
-
 </head>
 <body>
 	
@@ -40,8 +23,8 @@
 			<div class="">
 				<form class="login100-form validate-form">
 					
-					<span class="login100-form-avatar">
-						<img src="assets_log/images/avatar-01.jpg" alt="AVATAR">
+					<span class="">
+						<a href="homepage.php"><img src="assets/images/confi_logo.JPG" alt="AVATAR"></a>
 					</span>
 
 					<div class="wrap-input100 validate-input m-t-85 m-b-35" data-validate = "Enter username">
