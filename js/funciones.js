@@ -18,7 +18,7 @@ function consultarLogin(username,pass){
 	
 	alert(username)
 	alert(pass)
-	var resultado = "../Controller/ctrl_login.php?op=consultar&username="+username+"&pass="+pass;
+	var resultado = "ctrl_login.php?op=consultar&username="+username+"&pass="+pass;
 	alert(resultado)
 	alert(length(resultado))
 	//PatternCount(resultado;username) && PatternCount(resultado;pass)

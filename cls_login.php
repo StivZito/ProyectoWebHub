@@ -1,5 +1,5 @@
 <?php
-require_once('db/MysqliDb.php');
+require_once('../db/MysqliDb.php');
 
 class cls_login{
 	
