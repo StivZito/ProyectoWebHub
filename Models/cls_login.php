@@ -1,5 +1,5 @@
 <?php
-require_once('db/MysqliDb.php');
+require_once('../db/MysqliDb.php');
 
 class cls_login{
 	
@@ -23,11 +23,11 @@ class cls_login{
 		$username	= $this->datos["username"];
 		$pass = $this->datos["pass"];  
 
-		echo username
-		echo pass
+		print "entro al cls";
+		echo $pass;
 		//var_dump("<pre>",$this->datos,"</pre>");
 		
-		$sql = sprintf("SELECT * FROM cliente WHERE %s LIKE '%%%s%%'",$base->escape($username),$base->escape($pass));
+		$sql = sprintf("SELECT * FROM login WHERE %s LIKE '%%%s%%'",$base->escape($username),$base->escape($pass));
 
 		$resultado = $base->query($sql);
 		 

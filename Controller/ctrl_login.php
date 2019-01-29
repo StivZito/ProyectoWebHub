@@ -1,7 +1,7 @@
 <?php
  //ini_set('display_errors',1);
  //error_reporting(E_ALL);
- include('cls_login.php');
+ include('../Models/cls_login.php');
  //header('Content-type: text/xml');
  header('Content-type: application/json');
  header('Cache-Control: no-store, no-cache, must-revalidate');  
@@ -9,7 +9,7 @@
  //var_dump("<pre>",$_GET,"</pre>");   
  $p = new cls_login($_GET);
 //var_dump("<pre>",$p->datos,"</pre>");
-
+print "entro al ctrl";
  switch($op){
 	case 'consultar':
 			$resultado = $p->consultar_login();

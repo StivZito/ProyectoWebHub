@@ -20,13 +20,15 @@ function consultarLogin(username,pass){
 	alert(pass)
 	var resultado = "../Controller/ctrl_login.php?op=consultar&username="+username+"&pass="+pass;
 	alert(resultado)
-
-	if(resultado != NULL){
+	alert("antes del if")
+	if(resultado == NULL){
 		alert("Usuario exitoso")
-		header('Locationn: /homepage.php');
+		window.location.href = 'homepage.php';
 	}
-	else
+	else{
 		alert("Usuario no encontrado")	
-		header('Locationn: /login.php');
+		window.location.href = 'login.php';
+	}
+		alert("antes del else")
 }
 
