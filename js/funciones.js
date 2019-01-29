@@ -25,7 +25,7 @@ function consultarLogin(username,pass){
 	//var ai 	= new AJAXInteraction(url,mostrarCliente,"XML");
 	//ai.doGet();
 	alert(estado)
-	if(estado == true){
+	if(estado!=NULL){
 		alert("Usuario exitoso")
 		return true;
 	}
