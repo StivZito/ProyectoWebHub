@@ -12,7 +12,7 @@
 
  switch($op){
 	case 'consultar':
-			$estado = $p->consultar_login();
+			$resultado = $p->consultar_login();
 			//CONSULTA
 			break;
 	/*case 'ingresar':
@@ -28,5 +28,5 @@
 			$xml = $p->eliminar_cliente();
 			break;*/
  } 
- echo $estado;
+ echo $resultado;
 ?>
