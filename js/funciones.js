@@ -9,7 +9,7 @@ function validarIngresoLogin(){
 	}
 	else{
 		consultarLogin(username,pass);
-		//alert("Ingreso Exitoso");
+		alert("Ingreso Exitoso");
 	}
 	return false;
 }
