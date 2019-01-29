@@ -81,7 +81,7 @@
 	<script src="assets_log/vendor/daterangepicker/moment.min.js"></script>
 	<script src="assets_log/vendor/daterangepicker/daterangepicker.js"></script>
 	<script src="assets_log/vendor/countdowntime/countdowntime.js"></script>
-	<script src="js/main.js"></script>
+	<script src="assets_log/js/main.js"></script>
 
 </body>
 </html>

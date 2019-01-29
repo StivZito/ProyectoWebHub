@@ -20,8 +20,9 @@ function consultarLogin(username,pass){
 	alert(pass)
 	var resultado = "../Controller/ctrl_login.php?op=consultar&username="+username+"&pass="+pass;
 	alert(resultado)
-	alert("antes del if")
-	if(resultado == NULL){
+	alert(length(resultado))
+	//PatternCount(resultado;username) && PatternCount(resultado;pass)
+	if(length(resultado)>0){
 		alert("Usuario exitoso")
 		window.location.href = 'homepage.php';
 	}
@@ -29,6 +30,6 @@ function consultarLogin(username,pass){
 		alert("Usuario no encontrado")	
 		window.location.href = 'login.php';
 	}
-		alert("antes del else")
+		
 }
 
