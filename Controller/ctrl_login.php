@@ -9,7 +9,7 @@
  //var_dump("<pre>",$_GET,"</pre>");   
  $p = new cls_login($_GET);
 //var_dump("<pre>",$p->datos,"</pre>");
-print "entro al ctrl";
+echo "entro al ctrl";
  switch($op){
 	case 'consultar':
 			$resultado = $p->consultar_login();

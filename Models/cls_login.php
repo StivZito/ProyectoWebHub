@@ -23,7 +23,7 @@ class cls_login{
 		$username	= $this->datos["username"];
 		$pass = $this->datos["pass"];  
 
-		print "entro al cls";
+		echo "entro al cls";
 		echo $pass;
 		//var_dump("<pre>",$this->datos,"</pre>");
 		
