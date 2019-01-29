@@ -5,6 +5,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="assets/images/logo.png">
+	<script type="text/javascript" src="js/funciones.js"></script>
+
 	<link rel="stylesheet" type="text/css" href="assets_log/vendor/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets_log/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="assets_log/fonts/iconic/css/material-design-iconic-font.min.css">
@@ -15,25 +17,26 @@
 	<link rel="stylesheet" type="text/css" href="assets_log/vendor/daterangepicker/daterangepicker.css">
 	<link rel="stylesheet" type="text/css" href="assets_log/css/util.css">
 	<link rel="stylesheet" type="text/css" href="assets_log/css/main.css">
+
 </head>
 <body>
 	
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="">
-				<form class="login100-form validate-form">
+				<form class="login100-form validate-form" name="frmIngresoLogin" onsubmit="return validarIngresoLogin()">
 					
 					<span class="">
 						<a href="homepage.php"><img src="assets/images/confi_logo.JPG" alt="AVATAR"></a>
 					</span>
 
 					<div class="wrap-input100 validate-input m-t-85 m-b-35" data-validate = "Enter username">
-						<input class="input100" type="text" name="username">
+						<input class="input100" type="text" name="username" id="username">
 						<span class="focus-input100" data-placeholder="Username"></span>
 					</div>
 
 					<div class="wrap-input100 validate-input m-b-50" data-validate="Enter password">
-						<input class="input100" type="password" name="pass">
+						<input class="input100" type="password" name="pass" id="pass">
 						<span class="focus-input100" data-placeholder="Password"></span>
 					</div>
 

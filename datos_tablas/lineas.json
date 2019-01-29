@@ -1,0 +1,20 @@
+{
+	"_id" : ObjectId("5c4a6fe0f43b213c8cb42c4e"),
+	"codigo;nombre" : "001;CONFITERIA"
+},
+{
+	"_id" : ObjectId("5c4a6fe0f43b213c8cb42c4f"),
+	"codigo;nombre" : "002;CONSERVAS"
+},
+{
+	"_id" : ObjectId("5c4a6fe0f43b213c8cb42c50"),
+	"codigo;nombre" : "003;VARIOS"
+},
+{
+	"_id" : ObjectId("5c4a6fe0f43b213c8cb42c51"),
+	"codigo;nombre" : "004;MATERIALES"
+},
+{
+	"_id" : ObjectId("5c4a6fe0f43b213c8cb42c52"),
+	"codigo;nombre" : ""
+},

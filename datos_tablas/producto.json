@@ -1,0 +1,932 @@
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c53"),
+	"cod_prod;nombre;precio;grupo;linea" : "010101;JELLY MATTY 1*550 UND*16G;22"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c54"),
+	"cod_prod;nombre;precio;grupo;linea" : "020202;JELLY MATTY FRANA 6MALLAS*43UND*35G;4;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c55"),
+	"cod_prod;nombre;precio;grupo;linea" : "030303;JELLY MATTY 6MALLAS*90UND*16G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c56"),
+	"cod_prod;nombre;precio;grupo;linea" : "100;NOTA DE CREDITO VALORIZADA;1;031;003"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c57"),
+	"cod_prod;nombre;precio;grupo;linea" : "111111;JELLY MATTY 30MALLAS*16UND*16G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c58"),
+	"cod_prod;nombre;precio;grupo;linea" : "111111-2;JELLY MATTY MALLA 30*14UND*16G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c59"),
+	"cod_prod;nombre;precio;grupo;linea" : "151515;MATTY PINGUINO JARRA 6/90 PCS;5"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c5a"),
+	"cod_prod;nombre;precio;grupo;linea" : "212121;JELLY MATTY 27MALLAS*20UND*16G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c5b"),
+	"cod_prod;nombre;precio;grupo;linea" : "222222;JELLY MATTY FRANA 1*285UND*35G;26;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c5c"),
+	"cod_prod;nombre;precio;grupo;linea" : "232323;JELLY MATTY FRANA 24MALLAS*12UND*35G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c5d"),
+	"cod_prod;nombre;precio;grupo;linea" : "232323-2;JELLY MATTY FRANA 24MALLAS*10UND*35G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c5e"),
+	"cod_prod;nombre;precio;grupo;linea" : "232323-3;JELLY MATTY FRANA 29MALLAS*10UNID*35G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c5f"),
+	"cod_prod;nombre;precio;grupo;linea" : "233233;JELLY MATTY FRANA 47MALLAS*6UNID*35G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c60"),
+	"cod_prod;nombre;precio;grupo;linea" : "242424;JELLY MATTY 18MALLAS*30UND*16G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c61"),
+	"cod_prod;nombre;precio;grupo;linea" : "272727;JELLY MATTY 34MALLA*16UND*16G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c62"),
+	"cod_prod;nombre;precio;grupo;linea" : "292929;JELLY MATTY FRANA MALLA 43*6UND*35G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c63"),
+	"cod_prod;nombre;precio;grupo;linea" : "343434;JELLY MATTY 8JAR*70UND*166G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c64"),
+	"cod_prod;nombre;precio;grupo;linea" : "ALBUM01;ALBUMES - HUEVO LOCO;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c65"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL001;LEXUS CAJA REGALO HAZELNUT 12DP*150G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c66"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL002;LEXUS CAJA HAZELNUT 8DP*1KG;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c67"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL003;LEXUS JAR HAZELNUT 48DP*150G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c68"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL004;LADY BIRD FIGURA SORPRESA 6DP*12UND*55G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c69"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL005;CIRCUS HUEVO SORPRESA 6DP*24UND*25G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c6a"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL006;ANIMAL WORLD HUEVO SORPRESA 6DP*24UND*25G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c6b"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL007;HAPPY SANTA BOLA SORPRESA 6DP*24UND*34G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c6c"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL008;SANTA FIGURA SORPRESA 6DP*24UND*38G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c6d"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL009;LEXUS JAR HAZELNUT 12DP*250G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c6e"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL010;SANTA LUXE CAJA HAZELNUT 6DP*2KG;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c6f"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL011;PRINCESAS FIGURA SORPRESA 6DP*24UND*38G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c70"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL012;FUNNY BUNNY FIGURA SORPRESA 6DP*24UND*38G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c71"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL013;CARS HUEVO SORPRESA 6DP*24UND*25G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c72"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL014;CHOCO STARS HUEVO SORPRESA 6DP*24UND*25G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c73"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL015;CHAMPION BOLA SORPRESA 6DP*24UND*30G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c74"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL016;SUPER TURTLES BOLA SORPRESA 6DP*24UND*30G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c75"),
+	"cod_prod;nombre;precio;grupo;linea" : "ANL017;CRAZY GIRLS  BOLA SORPRESA 6DP*24UND*30G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c76"),
+	"cod_prod;nombre;precio;grupo;linea" : "APOLO01;ROLLO MALLA PLASTICA - AMARILLA Y ROJA;19;022;004"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c77"),
+	"cod_prod;nombre;precio;grupo;linea" : "CAMISETA1;CAMISETAS - HUEVITO LOCO;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c78"),
+	"cod_prod;nombre;precio;grupo;linea" : "CART01;CARTONES;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c79"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG002;TOY CANDY SAPO GLOBO CHICLE 12DP*40UND*4G;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c7a"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG002-1;TOY CANDY SAPO GLOBO VIRGEN 12DP*40UND*4G;7"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c7b"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG003;TOY CANDY MANITO CHICLE 24DP*30UND*3G;4"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c7c"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG003-2;MANITO VIRG. 24DP*30UND*4G;5;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c7d"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG007;TOY CANDY MONO TRAPRECISTA.CHICLE 20DP*30UND*6G;4"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c7e"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG008;TOY CANDY TROMPO CHICLE 32DP*24UND*3G;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c7f"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG008-2;TOY CANDY TROMPO VIRG. 32DP*24UND*3G;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c80"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG010-1;TOY CANDY PROYECTOR 24DP*24UND*7G;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c81"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG010-2;TOY CANDY PROYECTOR PLAST VIRG 24DP*24UND*7G;6"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c82"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG012;LOCO TATUIN 30DP*100UND*2.8G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c83"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG013;SORBETE LOCO CARAMELO 12DP*60UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c84"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG024;TOY CANDY MANO GRANDE CHICLE 18DP*24UND*8G;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c85"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG024-1;TOY CANDY MANO P.VIRGEN 18DP*24UND*8G;7"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c86"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG030-1;CHUP.LOCO SANDIA 24DP*30UND*12G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c87"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG031-1;CHUP.LOCO FRESA 24DP*30UND*12G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c88"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG033;SORBETE HELICOPTERO 30DP*20UND;1;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c89"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG038;TOY CANDY AVION BALA 30DP*24UND*3G;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c8a"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG040;NOTITAS FRESA 30DP*20UND*5G;1;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c8b"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG042;LENGUASO MALLA 30DP*20UND*10G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c8c"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG042-2;LENGUASO MALLA 30DP*18UND*10G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c8d"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG047;SACACH.LIGUITAS LOCAS 20DP*30UND*2G;6"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c8e"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG048;SET LIGUITAS LOCAS 20DP*10G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c8f"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG049;CARAMELO SPRAY OSITO 24DP*30UND*22ML;4"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c90"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG050;CARAMELO SPRAY PISTOLA 30DP*20UND*25ML;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c91"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG051;TETE LOCO 24DP*20UND*10G;5;004;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c92"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG052;TOY CANDY JERINGAZO 12DP*24UND*3G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c93"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG053;TOY CANDY PATINETA 24DP*30UND*3G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c94"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG054;CARAMELO SPRAY BANANA 24DP*30UND*16ML;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c95"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG055;CARAMELO SPRAY ENCENDEDOR 24DP*30UND*28ML;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c96"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG056;TOY CANDY SOLDADO 24DP*30UND*3G;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c97"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG057;CHUPETE LABIO LUZ 24DP*30UND*5G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c98"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG058;CARAMELO SPRAY COLA LOKA 30DP*20UND*25ML;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c99"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG059;CARAMELO SPRAY GRANADA 30DP*20UND*30ML;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c9a"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG060;CARAMELO SPRAY HUEVOLOCO 16DP*30UND*28ML;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c9b"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG061;TOY CANDY PAYASO GLOBO 24DP*30UND*3G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c9c"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG062;TOY CANDY SELLITOS 30DP*24UND*3G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c9d"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG063;TOY CANDY SONRISITAS 20DP*30UND*3G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c9e"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG064;TOY CANDY HUEVITO LOCO (NI�O) 12DP*24UND*4G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42c9f"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG065;TOY CANDY HUEVITO LOCO (NI�A) 12DP*24UND*4G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca0"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG066;TOY CANDY HUEVITO LOCO (SURTIDO) 12DP*24UNID*4G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca1"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG067;SORBETE LOCO CARAMELO LARGO 40DP*50UND*4G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca2"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG068;CARAMELO EN POLVO NATURALEZA ANIMADA 150DP*4UND*5G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca3"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG069;CHICLE BORRATOY NI�O 12DP*40UND*4G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca4"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG070;CHICLE BORRATOY NI�A 12DISP*40PCS*4G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca5"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG071;CARAMELO MECHITAS 15DP*20UND*10G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca6"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG072;CHUPETE HUEVO FRITO 20DP*30UND*10G;0;004;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca7"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG073;TOY CANDY SALUDITOS 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca8"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG074;TOY CANDY FERRARI 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ca9"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG075;TOY CANDY PINBALL 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42caa"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG076;TOY CANDY JOKER 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cab"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG077;TOY CANDY RESORTE LOCO 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cac"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG078;TOY CANDY DINO 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cad"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG079;TOY CANDY MONSTRUITOS LENGUALARGA 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cae"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG080;TOY CANDY SPINNER 24DP*30UND*3G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42caf"),
+	"cod_prod;nombre;precio;grupo;linea" : "CHG081;TOY CANDY HUEVITO LOCO (NI�O Y NI�A) 12DP*24UND*4G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb0"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0025;GOM. DIENTES 12DP*500G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb1"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0026;GOM. GUSANITOS DULCES 12DP*500G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb2"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0036;GELACTICA 10DP*40UND*20G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb3"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0039;GOM. OSITOS 12DP*500G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb4"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0040;GOM. GUSANOS ACIDOS 12DP*500G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb5"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0041;JELLY ICE BAR - 30DP*11UND*20G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb6"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0041-2;GELACTICA 30DP*9UND*20G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb7"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0045;GOM. HUEVO FRITO 12DP*500G;1;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb8"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0046;GOM. ESTRELLA DE MAR 12DP*500G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cb9"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0047;GOM. TIBURON 12DP*500G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cba"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0049;GOM. TORTUGA 12DP*500G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cbb"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0050;GOM. COCODRILO 12DP*500G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cbc"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0052;GOM.ARITO DE DURAZNO 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cbd"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0053;GOM. DIENTES 12DP*500G (TARRINAS);3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cbe"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0055;GOM. CORAZON 12DP*500G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cbf"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0056;GOM. PARTES DEL CUERPO 12DP*500G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc0"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0057;GOMIT TIRA PIZZA 12DP*10G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc1"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0057-1;GOMIT.TIRA PIZZA 5*20TIR*6UND;11"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc2"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0058;GOMIT.TIRA CARITA 12DP*10G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc3"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0058-1;GOMIT.TIRA CARITA 5*20TIR*6UND;11"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc4"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0059;GOMIT. TIRA DESAYUNO 5DP*12UND*10G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc5"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0059-1;GOMT. TIRA DESAYUNO 5*20*6UND;11"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc6"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0061;GOMITAS MATTY TIRA DIENTES/ 5DP*12UND*10G;1;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc7"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0061-1;GOMITAS MATTY TIRA DIENTES/ 5DP*5UND* 10G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc8"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0062;GOMITAS MATTY TIRA DEDO 5DP*12UND*10G;1;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cc9"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0062-1;GOMITAS MATTY TIRA DEDOS 5DP*5UND*10G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cca"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0063;GOMITAS MATTY TIRA PIE 5DP*12UND*10G;1;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ccb"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0064;GOMITAS MATTY TIRA NARIZ  5DP*12UND*10G;1;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ccc"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0064-1;GOMITAS MATTY TIRA NARIZ 5DP*5UND* 10G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ccd"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0065;GOM. NARIZ 12DP*500G (TARRINAS);3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cce"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0068;GOM. BANANAS 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ccf"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0072;GOM. PIZZA (TAJADAS) 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd0"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0073;GOM. PIE 12DP*500G (TARRINAS);3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd1"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0074;GOM. DEDO 12DP*500G (TARRINAS);3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd2"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0075;GOM. OSOS 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd3"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0076;GOM. ARITOS MANZANA 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd4"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0077;GOM. LABIOS 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd5"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0078;GOM. ORUGA 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd6"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0079;GOM. DELFINES 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd7"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0080;GOM. ANACONDA 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd8"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0081;GOM. MANDARINAS 12DP*500G;4"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cd9"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0082;GOM. MARIPOSAS 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cda"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0083;GOM. TIBURON COLORES  12DP*500G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cdb"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0085;GOM. OSOS ACIDOS 12DP*500G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cdc"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0086;GOM. OSITOS ACIDOS (2.5G) 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cdd"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD0087;GOM. COLA ACIDA (5G) 12DP*500G;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cde"),
+	"cod_prod;nombre;precio;grupo;linea" : "DD2121;MATTY FRANA GRANEL 1*258UND;14"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cdf"),
+	"cod_prod;nombre;precio;grupo;linea" : "DESC001;DESCUENTOS VARIOS;4;031;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce0"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB001;MALLA ROJA (24*26CM) 60*100UND;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce1"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB002;MALLA LILA (24*26CM) 60*100UND;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce2"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB003;MALLA ROJA (24CM)ROLLO1*1000MTS;1;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce3"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB004;MALLA LILA(24CM) ROLLO 1*1000MTS;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce4"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB005;MALLA AMARILLA (24*26CM) 60*100UND;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce5"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB006;MALLA ROJA (24*30CM) 60*100UND;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce6"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB007;MALLA AMARILLA (24*30CM) 60*100UND;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce7"),
+	"cod_prod;nombre;precio;grupo;linea" : "FIB010;MALLA AMARILLA (24CM)ROLLO1*1000MTS;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce8"),
+	"cod_prod;nombre;precio;grupo;linea" : "FLOKA1;FUNDA FIESTA LOKA 1*50UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ce9"),
+	"cod_prod;nombre;precio;grupo;linea" : "FLOKA2;FUNDA FIESTA LOKA 1*25UND;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cea"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO001;BUSTERS SANDIA+SAND ACIDA 12DP*24UND*16G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ceb"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO002;BUSTERS MANZANA+LIMON 12DP*24UND*16G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cec"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO003;BUSTERS COLA+NARANJA 12DP*24UND*16G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42ced"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO004;BUSTERS UVA+MORA 12DP*24UND*16G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cee"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO005;BUSTERS MORA+FRESA 12DP*24UND*16G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cef"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO006;BUSTERS MANZANA+LIMON 12DP*12UND*45G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf0"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO007;BUSTERS COLA+NARANJA 12DP*12UND*45G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf1"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO008;BUSTERS SANDIA+SAND ACIDA 12DP*12UND*45G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf2"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO009;BUSTERS MORA+FRESA 12DP*12UND*45G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf3"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO010;BUSTERS UVA+MORA12DP*12UND*45G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf4"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO011;MINI TINY 24DP*18UND*20G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf5"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO012;SOUR TWIN 24DP*50UND*3.5G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf6"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO013;CHICLE MELON TREAT 8DP*200UND*5G ;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf7"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO014;SOUR TWIN 8DP*200UND*3.5G;0;005;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf8"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO015;CHICLE MEGA HAMMER CANDY 6DP*10UND*100G ;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cf9"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO016;CHUPETE HAMMER CANDY 6DP*15UND*60G;0;004;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cfa"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO017;BUSTER CHEW BAR 12DP*24UND*20G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cfb"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO018;CHICLE METRO 2DP*48UND*80G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cfc"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO019;CHICLE WACKY ROLLO MORA AZUL 12DP*36UND*15G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cfd"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO020;CHICLE WACKY ROLLO MANZANA 12DP*36UND*15G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cfe"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO021;CHICLE WACKY ROLLO FRESA 12DP*36UND*15G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42cff"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO022;CHICLE WACKY ROLLO UVA 12DP*36UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d00"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO023;CHICLE WACKY ROLLO MIX (MANZANA"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d01"),
+	"cod_prod;nombre;precio;grupo;linea" : "JO024;BUSTERS SURTIDOS 12DP*24UND*16G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d02"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT001;MINI JELLY KAMY 400UND*15G� GRANEL;1;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d03"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT002;MINI JELLY TREN  6JAR*100UND*15G;1;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d04"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT003;MINI JELLY CARRO 6JAR*100UND*15G;1;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d05"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT004;JELLY KAMY 25MALLAS*16UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d06"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT005;MINI JELLY CARRO MODERNO 6JAR*100UND*15G;1;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d07"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT006;MINI JELLY ELEFANTE 6JAR*60UND*15G;1;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d08"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT007;MINI JELLY CARACOL 6JAR*50UND*15G  ;1;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d09"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT008;JELLY KAMY 20MALLAS*20UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d0a"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT009;JELLY KAMY 1*550UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d0b"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT010;JELLY KAMY 34MALAS*16UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d0c"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT011;JELLY KAMY 6MALLAS*90UND*15G;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d0d"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT012;JELLY KAMY 18MALLAS*30UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d0e"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT013;JELLY KAMY 27MALLAS*20UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d0f"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT014;JELLY KAMY OSITO 6JARS*100UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d10"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT015;JELLY KAMY PING�INO 6JAR*100UND*15G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d11"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT017;JELLY KAMY FRUTITAS 285UND/CTN*28G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d12"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT018;MINI JELLY CONEJO 15JAR*10UND*15G;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d13"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT019;MINI JELLY � PAJARO / 15JAR*10UND*15GR;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d14"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT020;MINI JELLY  ANIMAL 15JAR*10UND*15GR;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d15"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT021;GENIOUS EGG 4DP*12UND*26G;0;001;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d16"),
+	"cod_prod;nombre;precio;grupo;linea" : "LIT022;KAMY FRUTITAS 35MALLAS*8UNID*28G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d17"),
+	"cod_prod;nombre;precio;grupo;linea" : "MAC001;CHICLE MACGUM CIGAR 24*60*5.5G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d18"),
+	"cod_prod;nombre;precio;grupo;linea" : "MAC003;MOLOTOV CHICLE 30*100UND*4G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d19"),
+	"cod_prod;nombre;precio;grupo;linea" : "MAC005;CHIC.BOLA CANELA 24*100UND*4G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d1a"),
+	"cod_prod;nombre;precio;grupo;linea" : "MAC007;TURRON MANI 24*30UND*10G;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d1b"),
+	"cod_prod;nombre;precio;grupo;linea" : "MALLA03;MALLA 30CM FIBRAFIL;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d1c"),
+	"cod_prod;nombre;precio;grupo;linea" : "MALLA04;MALLA 60 CM FIBRAFIL;0;022;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d1d"),
+	"cod_prod;nombre;precio;grupo;linea" : "MICH001;GOM. SMART WATCH 21DP*25UND*14G;0;002;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d1e"),
+	"cod_prod;nombre;precio;grupo;linea" : "PI�ATA;FUNDA PI�ATA SURTIDA 1*50;0;030;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d1f"),
+	"cod_prod;nombre;precio;grupo;linea" : "PI�ATA2;FUNDA PI�ATA SURTIDA 1*25;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d20"),
+	"cod_prod;nombre;precio;grupo;linea" : "PTO100;PEPA SALADA 40TIRAS*10UND.;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d21"),
+	"cod_prod;nombre;precio;grupo;linea" : "PTO110;PEPA PICANTE 40TIRAS*10UND.;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d22"),
+	"cod_prod;nombre;precio;grupo;linea" : "PTO120;PEPA LIM�N 40TIRAS*10UND.;1"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d23"),
+	"cod_prod;nombre;precio;grupo;linea" : "PTO200;PEPAS SIN CASCARA 40TIRAS*10UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d24"),
+	"cod_prod;nombre;precio;grupo;linea" : "REEMB001;REEMBOLSO DE GASTO DE TRANSPORTE;270;031;003"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d25"),
+	"cod_prod;nombre;precio;grupo;linea" : "SPR001;CHICLE SPRING DURAZNO 50DP*20UND;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d26"),
+	"cod_prod;nombre;precio;grupo;linea" : "SPR002;CHICLE SPRING NARANJA 50DP*20UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d27"),
+	"cod_prod;nombre;precio;grupo;linea" : "SPR003;CHICLE SPRING FRESA 50DP*20UND;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d28"),
+	"cod_prod;nombre;precio;grupo;linea" : "SPR004;CHICLE SPRING UVA 50DP*20UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d29"),
+	"cod_prod;nombre;precio;grupo;linea" : "SPR005;CHICLE SPRING MANZANA 50DP*20UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d2a"),
+	"cod_prod;nombre;precio;grupo;linea" : "SPR006;CHICLE SPRING MENTA 50DP*20UND;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d2b"),
+	"cod_prod;nombre;precio;grupo;linea" : "SPR007;CHICLE SPRING SABORES SURTIDO 50DP*20UND;1;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d2c"),
+	"cod_prod;nombre;precio;grupo;linea" : "STICK31;SITCKERS PARA GOMITAS;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d2d"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0010;CHUPETE LUZ PINGUINO 8G 12*24UND;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d2e"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0011;ZOO CHOC  BAG 24DP*90UND*5G;0;006;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d2f"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0012;CHUPETE LUZ CORAZON 8G 12*24UND;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d30"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0015;CHUPETE LUZ PAPA NOEL 8G 12*24UND;3"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d31"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0022;ZOO-CHOC 24JAR*90UND*5G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d32"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0024;CHOCATE MIX 20DP*10UND*16G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d33"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0025;CHOCATE MALLA 108*20UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d34"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0025-2;ZOO-CHOC 108MALLAS*18UND*5G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d35"),
+	"cod_prod;nombre;precio;grupo;linea" : "SU0026;ZOOCHOC ABC 6DP*12UND*20G;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d36"),
+	"cod_prod;nombre;precio;grupo;linea" : "TACHO1;TACHOS 1*24UND;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d37"),
+	"cod_prod;nombre;precio;grupo;linea" : "TACHOSITO;TACHOS VACIOS DE OSITO;0"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d38"),
+	"cod_prod;nombre;precio;grupo;linea" : "ULK001-1;NUTFRESH 6DP*24UND*23G;0;007;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d39"),
+	"cod_prod;nombre;precio;grupo;linea" : "ZH0010;CARAM. TETELOCO SURT 24*20UND;2"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d3a"),
+	"cod_prod;nombre;precio;grupo;linea" : "ZH0011;SACACHISPA SONRISITAS 20DISP*30UND;0;003;001"
+},
+{
+	"_id" : ObjectId("5c4a7008f43b213c8cb42d3b"),
+	"cod_prod;nombre;precio;grupo;linea" : ""
+},
