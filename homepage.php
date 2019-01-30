@@ -53,7 +53,7 @@
 			   			<div class="row">
 				   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
 				   				<div class="slider-text-inner">
-				   					<h1><strong></strong>Siguenos en nuestro FanPage:</h1>
+				   					<h1><strong>Siguenos en nuestro FanPage:</strong></h1>
 										<p><a class="btn btn-primary btn-lg btn-learn" href="https://www.facebook.com">FACEBOOK</a></p>
 				   				</div>
 				   			</div>
@@ -208,8 +208,6 @@
 				</div>
 			</div>
 		</div>	
-
-
 	</body>
 		<?php 
 		require_once('layouts/footer.php');

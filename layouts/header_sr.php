@@ -44,7 +44,7 @@
 		<div class="qbootstrap-loader"></div>		
 		<div id="page">
 		<nav class="qbootstrap-nav" role="navigation">
-			<div class="top-menu">
+			<div class="">
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
@@ -61,7 +61,7 @@
 									</div>
 									<div class="col-md-4">
 										<div class="loc">
-											<span class="icon"><i class="icon-location"></i></span>
+											<span class="icon"><a href="mapa.php"><i class="icon-location"></i></a></span>
 											<p><a href="#">Eloy Alfaro y Cuenca esquina, Guayaquil-Ecuador</a></p>
 										</div>
 									</div>
