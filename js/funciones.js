@@ -21,7 +21,7 @@ function consultarLogin(username,pass){
 	//var resultado = "../Controller/ctrl_login.php?op=consultar&username="+username+"&pass="+pass;
 	var resultado = "../Controller/ctrl_login.php?op=consultarLogin&username="+username+"&pass="+pass;
 
-	if(length(resultado)>0){
+	if(resultado != NULL){
 		alert("Usuario exitoso")
 		window.location.href = 'homepage.php';
 	}
