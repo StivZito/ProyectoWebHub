@@ -66,81 +66,80 @@
 		
 		<aside id="qbootstrap-hero">
 			<div class="flexslider">
-				<div id="qbootstrap-doctor">
-				<H1>VARIEDAD EN DULCES PARA TI</H1>			
+				<div id="qbootstrap-doctor"><H1 id="prod">VARIEDAD EN DULCES PARA TI</H1>							
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/CARAMELO-BLANDO-EN-POLVO-300x300.png);"></div>
-									<h3><a href="#">CARAMELO BLANDO/POLVO</a></h3>
+									<a href="#"><strong>CARAMELO BLANDO/POLVO</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/CARAMELO-EN-LIQUIDO-300x300.png);"></div>
-									<h3><a href="#">CARAMELO LIQUIDO</a></h3>
+									<a href="#"><strong>CARAMELO LIQUIDO</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/CHICLES-300x300.png);"></div>
-									<h3><a href="#">CHICLES</a></h3>
+									<a href="#"><strong>CHICLES</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/CHOCOLATE-300x300.png);"></div>
-									<h3><a href="#">CHOCOLATES</a></h3>
+									<a href="#"><strong>CHOCOLATES</strong></a>
 								</div>
 							</div>
 
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/CHUPETES-300x300.png);"></div>
-									<h3><a href="#">CHUPETES</a></h3>
+									<a href="#"><strong>CHUPETES</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/iconn-gallega-300x300.png);"></div>
-									<h3><a href="#">GALLETAS</a></h3>
+									<a href="#"><strong>GALLETAS</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/GELATINA-300x300.png);"></div>
-									<h3><a href="#">GELATINAS</a></h3>
+									<a href="#"><strong>GELATINAS</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/GOMITAS-300x300.png);"></div>
-									<h3><a href="#">GOMITAS</a></h3>
+									<a href="#"><strong>GOMITAS</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/GRAGEAS-300x300.png);"></div>
-									<h3><a href="#">GRAGEAS</a></h3>
+									<a href="#"><strong>GRAGEAS</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/MARSHMELLOWS-300x300.png);"></div>
-									<h3><a href="#">MARSHMELLOWS</a></h3>
+									<a href="#"><strong>MARSHMELLOWS</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/TOY-CANDY-300x300.png);"></div>
-									<h3><a href="#">TOY CANDY</a></h3>
+									<a href="#"><strong>TOY CANDY</strong></a>
 								</div>
 							</div>
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
 									<div class="staff-img" style="background-image: url(assets/images/ca-fi-300x300.png);"></div>
-									<h3><a href="#">OTROS</a></h3>
+									<a href="#"><strong>OTROS</strong></a>
 								</div>
 							</div>
 						</div>

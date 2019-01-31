@@ -73,7 +73,7 @@
 								<ul>
 									<li class="active"><a href="homepage.php"><strong><big>Home</big></strong></a></li>
 									<li><a href="nosotros.php"><strong><big>Nosotros</big></strong></a></li>
-									<li><a href="#content"><strong><big>Productos</big></strong></a></li>
+									<li><a href="#prod"><strong><big>Productos</big></strong></a></li>
 									<li><a href="vendedores.php"><strong><big>Vendedores</big></strong></a></li>
 									<li><a href="#qbootstrap-testimonial"><strong><big>Referencias</big></strong></a></li>
 									<li><a href="mapa.php"><strong><big>Encuentranos</big></strong></a></li>
