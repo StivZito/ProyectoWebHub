@@ -63,110 +63,91 @@
 			  	</ul>
 		  	</div>
 		</aside>
-
-		<!--inicio de los productos-->
-		<div id="content" class="site-content">
-			<section class="focus" id="focus">	
-				<div class="container">
-					<!-- SECTION HEADER -->
-					<div class="section-header">
-						<h2 class="dark-text">CONFIKING</h2><div class="section-legend">Conoce lo que te ofrecemos</div>
-					</div>
-
-					<div class="row">
-						<span id="ctup-ads-widget-2" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="productos.php" class="service-icon">
-								    <span class="sr-only">Go to Gelatinas </span>								
-									<i class="pixeden" style="background:url(assets/images/gelatina.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>				
-								<h3 class="red-border-bottom">Gelatinas</h3>
-								<p>Con sabor a frutas</p>
-							</div>
-						</span>
-
-						<span id="ctup-ads-widget-1" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="productos.php" class="service-icon">
-									<span class="sr-only">Go to Gomitas </span>								
-									<i class="pixeden" style="background:url(assets/images/gomita.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>
-								<h3 class="red-border-bottom">Gomitas</h3>
-								<p>Ricas y divertidas</p>
-							</div>
-						</span>
-
-						<span id="ctup-ads-widget-3" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">										<a href="productos.php" class="service-icon">
-									<span class="sr-only">Go to Chocolate</span>
-									<i class="pixeden" style="background:url(assets/images/chocolate.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>				
-								<h3 class="red-border-bottom">Chocolate</h3>
-								<p>Con crema de avellanas</p>
-							</div>
-						</span>
-
-						<span id="ctup-ads-widget-8" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="productos.php" class="service-icon">
-									<span class="sr-only">Go to Chupetes</span>								
-									<i class="pixeden" style="background:url(assets/images/chupete.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>				
-								<h3 class="red-border-bottom">Chupetes</h3>
-								<p>Delicioso caramelo duro</p>
-							</div>
-						</span>
-
-						<span id="ctup-ads-widget-15" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="productos.php" class="service-icon">
-									<span class="sr-only">Go to Chicle</span>								
-									<i class="pixeden" style="background:url(assets/images/chiclesito.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>				
-								<h3 class="red-border-bottom">Chicle</h3>
-								<p>Sabor a sandia </p>
-							</div>
-						</span>
-
-						<span id="ctup-ads-widget-6" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="productos.php" class="service-icon">
-									<span class="sr-only">Go to Caramelo Blando/Polvo</span>
-									<i class="pixeden" style="background:url(assets/images/caramelito.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>				
-								<h3 class="red-border-bottom">Caramelo Blando/Polvo</h3>
-								<p>Dulce y sabroso</p>
-							</div>
-						</span>
-
-						<span id="ctup-ads-widget-12" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="productos.php" class="service-icon">
-									<span class="sr-only">Go to CARAMELO LÍQUIDO</span>								
-									<i class="pixeden" style="background:url(assets/images/caramelito-liquido.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>				
-								<h3 class="red-border-bottom">CARAMELO LÍQUIDO</h3>
-								<p>Caramelo líquido de sabores</p>
-							</div>
-						</span>
-
-						<span id="ctup-ads-widget-14" class="">
-							<div class="col-lg-3 col-sm-3 focus-box" data-scrollreveal="enter left after 0.15s over 1s" data-sr-init="true" data-sr-complete="true">
-								<a href="productos.php" class="service-icon">
-									<span class="sr-only">Go to Grageas</span>
-									<i class="pixeden" style="background:url(assets/images/grageitas.png) no-repeat center;width:100%; height:100%;"></i>
-								</a>
-								<h3 class="red-border-bottom">Grageas</h3>
-								<p>Caramelo duro con centro ácido</p>
-							</div>
-						</span>
-				</div> <!-- / END CONTAINER -->
-				<div>
-					<a href="productos.php"><h5>DESCUBRE MAS</h5></a>
-				</div>	
-			</section>  <!-- / END FOCUS SECTION -->
-		</div>
 		
+		<aside id="qbootstrap-hero">
+			<div class="flexslider">
+				<div id="qbootstrap-doctor">
+				<H1>VARIEDAD EN DULCES PARA TI</H1>			
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/CARAMELO-BLANDO-EN-POLVO-300x300.png);"></div>
+									<h3><a href="#">CARAMELO BLANDO/POLVO</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/CARAMELO-EN-LIQUIDO-300x300.png);"></div>
+									<h3><a href="#">CARAMELO LIQUIDO</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/CHICLES-300x300.png);"></div>
+									<h3><a href="#">CHICLES</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/CHOCOLATE-300x300.png);"></div>
+									<h3><a href="#">CHOCOLATES</a></h3>
+								</div>
+							</div>
+
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/CHUPETES-300x300.png);"></div>
+									<h3><a href="#">CHUPETES</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/iconn-gallega-300x300.png);"></div>
+									<h3><a href="#">GALLETAS</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/GELATINA-300x300.png);"></div>
+									<h3><a href="#">GELATINAS</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/GOMITAS-300x300.png);"></div>
+									<h3><a href="#">GOMITAS</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/GRAGEAS-300x300.png);"></div>
+									<h3><a href="#">GRAGEAS</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/MARSHMELLOWS-300x300.png);"></div>
+									<h3><a href="#">MARSHMELLOWS</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/TOY-CANDY-300x300.png);"></div>
+									<h3><a href="#">TOY CANDY</a></h3>
+								</div>
+							</div>
+							<div class="col-md-3 animate-box text-center">
+								<div class="doctor">
+									<div class="staff-img" style="background-image: url(assets/images/ca-fi-300x300.png);"></div>
+									<h3><a href="#">OTROS</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</aside>
 
 		<!--Inicion de Referenecias / testimonios -->
 		<div id="qbootstrap-testimonial" class="qbootstrap-bg-section">
