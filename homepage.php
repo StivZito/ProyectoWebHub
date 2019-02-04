@@ -71,7 +71,7 @@
 						<div class="row">
 							<div class="col-md-3 animate-box text-center">
 								<div class="doctor">
-									<div class="staff-img" style="background-image: url(assets/images/CARAMELO-BLANDO-EN-POLVO-300x300.png);"></div>
+									<div class="staff-img" style="background-image: url(assets/images/CARAMELO-BLANDO-EN-POLVO-300x300.png);" width=100 height=20></div>
 									<a href="#"><strong>CARAMELO BLANDO/POLVO</strong></a>
 								</div>
 							</div>
