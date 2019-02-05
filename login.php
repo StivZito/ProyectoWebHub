@@ -24,7 +24,7 @@
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="">
-				<form class="login100-form validate-form" name="frmIngresoLogin" onsubmit="return validarIngresoLogin()">
+				<form class="login100-form validate-form" name="frmIngresoLogin" action="dashboard.php" methos="post">
 					
 					<span class="">
 						<a href="homepage.php"><img src="assets/images/confi_logo.JPG" alt="AVATAR"></a>
